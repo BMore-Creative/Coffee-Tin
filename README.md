@@ -1,7 +1,7 @@
 # Coffee Tin
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
-
+![image](https://user-images.githubusercontent.com/80925456/132935423-f38614dd-42c1-4e5b-b52d-73ae1719ea29.png)
 
 Live Link: http://coffee-tin.herokuapp.com/
 
